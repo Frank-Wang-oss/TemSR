@@ -1,9 +1,11 @@
 # Temporal Source Recovery for Time Series Unsupervised Domain Adaptation [[Paper]()] 
 
 
-<p align="center">
-<img src="misc/temporal_adapt.PNG" width="900" class="center">
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (<img src="misc/temporal_adapt.PNG" width="900" class="center">)
+
+[//]: # (</p>)
 
 ## Requirmenets:
 - Python3
