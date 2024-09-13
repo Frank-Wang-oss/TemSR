@@ -1,0 +1,28 @@
+wandb_version: 1
+
+AR_hid_dim:
+  value: 128
+CL_temp:
+  value: 0.01
+Gent:
+  value: true
+anchor_percent:
+  value: 0.6
+detach:
+  value: false
+disc_loss_wt:
+  value: 10
+ent_loss_wt:
+  value: 1
+learning_rate:
+  value: 0.0001
+num_masked:
+  value: 1
+num_splits:
+  value: 16
+pre_learning_rate:
+  value: 0.0005
+src_like_entropy_wt:
+  value: 2.5
+trg_max_min_loss_wt:
+  value: 5.891312693542323

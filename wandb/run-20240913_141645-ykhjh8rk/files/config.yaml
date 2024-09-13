@@ -1,0 +1,105 @@
+wandb_version: 1
+
+pre_learning_rate:
+  desc: null
+  value: 0.0005
+learning_rate:
+  desc: null
+  value: 0.0001
+ent_loss_wt:
+  desc: null
+  value: 1
+disc_loss_wt:
+  desc: null
+  value: 10
+src_like_entropy_wt:
+  desc: null
+  value: 2.5
+Gent:
+  desc: null
+  value: true
+src_like_epochs:
+  desc: null
+  value: 3
+trg_disc_epochs:
+  desc: null
+  value: 3
+trg_max_min_loss_wt:
+  desc: null
+  value: 5.891312693542323
+AR_hid_dim:
+  desc: null
+  value: 128
+num_splits:
+  desc: null
+  value: 16
+num_masked:
+  desc: null
+  value: 1
+anchor_percent:
+  desc: null
+  value: 0.6
+CL_temp:
+  desc: null
+  value: 0.01
+detach:
+  desc: null
+  value: false
+num_epochs:
+  desc: null
+  value: 40
+batch_size:
+  desc: null
+  value: 32
+weight_decay:
+  desc: null
+  value: 0.0001
+step_size:
+  desc: null
+  value: 100
+lr_decay:
+  desc: null
+  value: 0.5
+_wandb:
+  desc: null
+  value:
+    python_version: 3.9.7
+    cli_version: 0.16.6
+    framework: huggingface
+    huggingface_version: 4.43.3
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1726208205.0
+    t:
+      1:
+      - 1
+      - 5
+      - 11
+      - 32
+      - 41
+      - 49
+      - 53
+      - 55
+      - 77
+      2:
+      - 1
+      - 5
+      - 11
+      - 32
+      - 41
+      - 49
+      - 53
+      - 55
+      - 77
+      3:
+      - 2
+      - 16
+      - 23
+      - 37
+      4: 3.9.7
+      5: 0.16.6
+      6: 4.43.3
+      8:
+      - 3
+      - 5
+      13: windows-amd64

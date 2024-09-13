@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2024-09-13T06:16:46.052087",
+    "startedAt": "2024-09-13T06:16:45.329163",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--is_sweep",
+        "TRUE"
+    ],
+    "state": "running",
+    "program": "D:\\PhD_in_Sg\\research_related\\Ownresearch\\SFDA-main\\Cleaned Code\\TemSR\\trainers\\train.py",
+    "codePathLocal": "trainers\\train.py",
+    "codePath": "trainers\\train.py",
+    "host": "wangy4-DT01",
+    "username": "yucheng_wang",
+    "executable": "D:\\Softwares\\anaconda\\envs\\pytorch_gpu\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1862.9999961853027,
+            "used": 1524.2521057128906
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3080 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080 Ti",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 63.88439178466797
+    }
+}
