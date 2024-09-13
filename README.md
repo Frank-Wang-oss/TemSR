@@ -1,4 +1,4 @@
-# Temporal Source Recovery for Time Series Unsupervised Domain Adaptation [[Paper]()] 
+# Temporal Source Recovery for Time-Series Source Free Unsupervised Domain Adaptation [[Paper]()] 
 
 
 [//]: # (<p align="center">)
