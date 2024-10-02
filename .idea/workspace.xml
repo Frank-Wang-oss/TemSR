@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a02d907-d301-490c-a0fe-d8e7650f9089" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SFDA-main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/algorithms_DANN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/algorithms_MMD.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/sweep_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/configs/sweep_params.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainers/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainers/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/debug-cli.yucheng_wang.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/conda-environment.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/config.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/output.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/wandb-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/wandb-summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/logs/debug-internal.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/logs/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/run-mvdcor4g.wandb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/conda-environment.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/config.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/output.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/wandb-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/wandb-summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/logs/debug-internal.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/logs/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/run-ykhjh8rk.wandb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/sweep-qldbs9x4/config-mvdcor4g.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wandb/sweep-qldbs9x4/config-ykhjh8rk.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainers/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,15 +21,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "D:/PhD_in_Sg/research_related/Ownresearch/SFDA-main/Cleaned Code/TemSR",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PhD_in_Sg/research_related/Ownresearch/SFDA-main/Cleaned Code/TemSR&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727578846783</updated>
       <workItem from="1727578848500" duration="174000" />
+      <workItem from="1727872514055" duration="72000" />
     </task>
     <servers />
   </component>
