@@ -128,7 +128,7 @@ if __name__ == "__main__":
     parser.add_argument('--run_description', default='train', type=str, help='Description of run, if none, DA method name will be used')
 
     # ========= Select the DA methods ============
-    parser.add_argument('--da_method', default='TemSR', type=str, help='NRC, AaD, SHOT, MAPU,')
+    parser.add_argument('--da_method', default='TemSR', type=str)
 
     # ========= Select the DATASET ==============
     parser.add_argument('--data_path', default=r'../Datasets', type=str, help='Path containing datase2t')
@@ -158,7 +158,5 @@ if __name__ == "__main__":
     trainer = Trainer(args)
     if args.is_sweep:
         trainer.sweep()
-        print(1)
     else:
         trainer.train()
-        print(2)

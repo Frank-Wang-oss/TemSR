@@ -101,9 +101,6 @@ class AbstractTrainer(object):
         # load dictionary of last model
         self.algorithm.network.load_state_dict(self.last_model)
 
-        if self.da_method == 'TemSR_wo_alignment':
-            recover = self.algorithm.signal_recover.to(self.device)
-            recover.eval()
 
         feature_extractor = self.algorithm.feature_extractor.to(self.device)
         classifier = self.algorithm.classifier.to(self.device)
@@ -117,12 +114,6 @@ class AbstractTrainer(object):
             for data, labels,_ in test_loader:
                 data = data.float().to(self.device)
                 labels = labels.view((-1)).long().to(self.device)
-                if self.da_method == 'TemSR_wo_alignment':
-                    data, _ = masking2(data, num_splits=self.hparams['num_splits'],
-                                                                 num_masked=min(self.hparams['num_masked'],
-                                                                                self.hparams['num_splits']))
-
-                    data = recover(data)
 
                 # forward pass
                 spat_feat, features = feature_extractor(data)

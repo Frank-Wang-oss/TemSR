@@ -41,7 +41,7 @@ EEG = {
 }
 
 FD = {
-'SFDA_v10': {
+'TemSR': {
                 'pre_learning_rate':                {'values': [5e-3, 3e-3, 1e-3, 5e-4, 1e-4]},
                 'learning_rate':                    {'values': [5e-4, 1e-4, 5e-5, 1e-5, 7e-6]},
                 'ent_loss_wt':                      {'distribution': 'uniform', 'min': 0, 'max': 5},

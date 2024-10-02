@@ -1,11 +1,5 @@
-# Temporal Source Recovery for Time-Series Source Free Unsupervised Domain Adaptation [[Paper]()] 
+# Temporal Source Recovery for Time-Series Source Free Unsupervised Domain Adaptation [[Paper](https://arxiv.org/pdf/2409.19635)] 
 
-
-[//]: # (<p align="center">)
-
-[//]: # (<img src="misc/temporal_adapt.PNG" width="900" class="center">)
-
-[//]: # (</p>)
 
 ## Requirmenets:
 - Python3
@@ -20,7 +14,7 @@
 ## Datasets
 
 ### Available Datasets
-We used four public datasets in this study. We also provide the **preprocessed** versions as follows:
+We used three public datasets in this study. We also provide the **preprocessed** versions as follows:
 - [SSC](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/UD1IM9)
 - [UCIHAR](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/0SYHTZ)
 - [MFD](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/PU85XN)
@@ -74,23 +68,15 @@ is the run_id (you can have multiple runs by assigning `--num_runs` arg).
 
 ## Citation
 If you found this work useful for you, please consider citing it (paper will be available soon).
+'''
+@misc{wang2024temporalsourcerecoverytimeseries,
+      title={Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation}, 
+      author={Yucheng Wang and Peiliang Gong and Min Wu and Felix Ott and Xiaoli Li and Lihua Xie and Zhenghua Chen},
+      year={2024},
+      eprint={2409.19635},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2409.19635}, 
+}
 
-[//]: # (```)
-
-[//]: # (@inproceedings{mpau,)
-
-[//]: # (  author = {Ragab, Mohamed and Eldele, Emadeldeen and Foo, Chuan-Sheng and Wu, Min and Li, Xiaoli and Chen, Zhenghua},)
-
-[//]: # (  title = {Source-Free Domain Adaptation with Temporal Imputation for Time Series Data},)
-
-[//]: # (  booktitle={29th SIGKDD Conference on Knowledge Discovery and Data Mining - Research Track},)
-
-[//]: # (  year = {2023},)
-
-[//]: # (  url={https://openreview.net/forum?id=v6GK0ijPW0B})
-
-[//]: # (})
-
-[//]: # (```)
-
-
+'''

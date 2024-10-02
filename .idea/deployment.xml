@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
-    <option name="confirmBeforeUploading" value="false" />
+  <component name="PublishConfigData">
     <serverData>
-      <paths name="L40">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/home/yucheng/SFDA" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="huijing@10.2.56.166:22">
         <serverdata>
           <mappings>

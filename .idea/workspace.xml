@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a02d907-d301-490c-a0fe-d8e7650f9089" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SFDA-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algorithms_DANN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algorithms_MMD.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sweep_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/configs/sweep_params.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainers/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainers/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/debug-cli.yucheng_wang.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/conda-environment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/wandb-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/files/wandb-summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/logs/debug-internal.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/logs/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141628-mvdcor4g/run-mvdcor4g.wandb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/conda-environment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/wandb-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/files/wandb-summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/logs/debug-internal.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/logs/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/run-20240913_141645-ykhjh8rk/run-ykhjh8rk.wandb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/sweep-qldbs9x4/config-mvdcor4g.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wandb/sweep-qldbs9x4/config-ykhjh8rk.yaml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mj8uOH1bipqAFoUHPsTBaLxLNP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "D:/PhD_in_Sg/research_related/Ownresearch/SFDA-main/Cleaned Code/TemSR",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a02d907-d301-490c-a0fe-d8e7650f9089" name="Changes" comment="" />
+      <created>1727578846783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727578846783</updated>
+      <workItem from="1727578848500" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SFDA_main$Read_losses.coverage" NAME="Read_losses Coverage Results" MODIFIED="1726132905289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments_logs" />
+    <SUITE FILE_PATH="coverage/SFDA_main$Data_read__1_.coverage" NAME="Data_read (1) Coverage Results" MODIFIED="1725357150332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SFDA_main$loss.coverage" NAME="loss Coverage Results" MODIFIED="1723217488352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/SFDA_main$sweep_params.coverage" NAME="sweep_params Coverage Results" MODIFIED="1724557428639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configs" />
+    <SUITE FILE_PATH="coverage/SFDA_main$train.coverage" NAME="train Coverage Results" MODIFIED="1726131972433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainers" />
+    <SUITE FILE_PATH="coverage/SFDA_main$File_test.coverage" NAME="File_test Coverage Results" MODIFIED="1724676450765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SFDA_main$hparams.coverage" NAME="hparams Coverage Results" MODIFIED="1724850789932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configs" />
+    <SUITE FILE_PATH="coverage/SFDA_main$algorithms.coverage" NAME="algorithms Coverage Results" MODIFIED="1726129063624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/SFDA_main$models.coverage" NAME="models Coverage Results" MODIFIED="1722432240374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+  </component>
+</project>
