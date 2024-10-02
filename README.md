@@ -68,7 +68,7 @@ is the run_id (you can have multiple runs by assigning `--num_runs` arg).
 
 ## Citation
 If you found this work useful for you, please consider citing it (paper will be available soon).
-'''
+```
 @misc{wang2024temporalsourcerecoverytimeseries,
       title={Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation}, 
       author={Yucheng Wang and Peiliang Gong and Min Wu and Felix Ott and Xiaoli Li and Lihua Xie and Zhenghua Chen},
@@ -78,5 +78,7 @@ If you found this work useful for you, please consider citing it (paper will be 
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2409.19635}, 
 }
+```
 
-'''
+
+
